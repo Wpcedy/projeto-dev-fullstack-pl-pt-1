@@ -1,6 +1,6 @@
 # projeto-dev-fullstack-pl-pt-1
 
-## Resolução
+## Processo
 
 A primeira etapa foi ler o documento do teste para ter um perspectiva do que seria necessario fazer, incluindo algumas
 pesquisas de funcionalidades e interações devido as regras do teste. Após verificar tudo criei o projeto no github e
